@@ -9,7 +9,7 @@
 
 <div class="container">
     <h1>Tugas Form</h1>
-    <form action="#">
+    <form action="process_form.php" method="post">
         <label for="name">Nama:</label>
         <input type="text" id="name" name="name" placeholder="Masukkan nama">
 
